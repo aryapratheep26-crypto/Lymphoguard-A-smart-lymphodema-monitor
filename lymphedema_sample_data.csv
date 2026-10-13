@@ -1,0 +1,201 @@
+patient_id,age,gender,cause,affected_limb,bmi,duration_months,stage,swelling_diff_cm,pain_score,compression_therapy,manual_lymph_drainage,exercise_level,infection_history,swelling_reduction_cm
+P001,65,Female,Breast cancer surgery,Left leg,22.9,9,2,6.0,4,Yes,No,Low,Yes,1.7
+P002,26,Female,Infection,Right leg,22.4,38,1,4.4,2,Yes,No,Medium,No,2.3
+P003,31,Female,Lymph node removal,Left leg,34.9,39,1,2.8,3,Yes,No,Low,No,2.1
+P004,80,Male,Radiation therapy,Left arm,18.9,15,2,6.4,6,Yes,No,Medium,No,1.1
+P005,47,Female,Infection,Left arm,30.2,11,1,3.1,3,No,Yes,High,No,1.1
+P006,77,Female,Obesity,Right leg,23.4,14,3,7.5,7,Yes,No,Medium,No,0.8
+P007,33,Female,Infection,Left leg,32.9,28,3,6.7,8,Yes,No,Low,No,0.8
+P008,35,Male,Radiation therapy,Right leg,25.6,30,1,4.6,3,Yes,Yes,High,No,3.4
+P009,46,Female,Breast cancer surgery,Right arm,27.1,47,3,6.8,7,Yes,Yes,High,No,2.5
+P010,34,Male,Obesity,Left arm,30.0,32,0,2.8,1,No,Yes,Low,Yes,1.4
+P011,71,Male,Obesity,Right arm,20.6,31,3,6.7,7,No,Yes,High,No,1.5
+P012,50,Male,Lymph node removal,Right leg,20.4,15,0,1.1,0,Yes,Yes,Low,No,2.6
+P013,27,Male,Breast cancer surgery,Right arm,23.6,32,1,3.4,2,No,Yes,Medium,No,1.1
+P014,52,Male,Lymph node removal,Right leg,35.3,4,2,5.7,4,No,No,Low,Yes,0.4
+P015,52,Female,Breast cancer surgery,Right arm,35.5,5,1,4.1,4,Yes,Yes,Low,No,2.4
+P016,56,Male,Breast cancer surgery,Right leg,36.0,11,1,4.0,3,No,No,Medium,No,1.2
+P017,67,Male,Breast cancer surgery,Left leg,22.4,4,2,5.7,6,Yes,Yes,High,No,2.7
+P018,28,Female,Obesity,Left arm,29.9,44,3,7.4,7,Yes,Yes,High,Yes,2.4
+P019,45,Male,Breast cancer surgery,Left leg,22.8,26,0,1.9,1,Yes,Yes,Medium,No,2.6
+P020,59,Female,Radiation therapy,Right arm,36.7,57,0,1.2,1,No,No,High,No,1.1
+P021,67,Male,Primary (unknown),Left arm,36.8,9,1,4.4,3,Yes,No,Medium,No,1.5
+P022,65,Male,Radiation therapy,Left leg,36.1,55,0,2.3,1,Yes,Yes,Medium,No,2.9
+P023,72,Male,Radiation therapy,Right leg,29.2,8,0,2.7,0,Yes,No,High,No,1.6
+P024,48,Female,Obesity,Right arm,31.6,43,0,2.6,2,No,Yes,Low,No,2.5
+P025,51,Female,Breast cancer surgery,Left leg,33.6,27,2,6.2,6,No,Yes,High,Yes,2.0
+P026,39,Female,Obesity,Right leg,25.0,53,2,4.5,3,Yes,No,Medium,No,2.1
+P027,47,Male,Infection,Left leg,36.8,8,3,6.9,6,No,Yes,Low,No,1.6
+P028,52,Female,Lymph node removal,Right arm,23.1,46,1,3.9,3,Yes,No,Medium,Yes,1.7
+P029,45,Female,Infection,Left leg,28.1,43,1,3.2,2,Yes,Yes,Medium,No,3.3
+P030,36,Male,Lymph node removal,Left arm,24.1,14,1,3.8,3,No,No,Medium,No,1.2
+P031,75,Female,Infection,Left leg,28.3,41,2,5.2,3,Yes,No,Low,No,1.0
+P032,55,Female,Lymph node removal,Right arm,32.4,25,1,3.3,3,Yes,Yes,Medium,Yes,3.2
+P033,54,Female,Radiation therapy,Left arm,27.1,52,1,3.7,4,No,No,High,No,0.6
+P034,60,Male,Obesity,Right leg,27.0,49,1,4.0,3,No,Yes,Medium,No,1.4
+P035,46,Male,Obesity,Left arm,20.8,15,1,2.7,2,No,No,Medium,No,0.3
+P036,51,Male,Primary (unknown),Left arm,35.1,49,2,5.8,5,No,No,Medium,No,0.9
+P037,39,Male,Breast cancer surgery,Right leg,27.7,25,1,3.7,3,Yes,No,Low,No,2.6
+P038,62,Female,Breast cancer surgery,Right leg,20.7,30,1,3.0,2,No,No,Medium,No,1.1
+P039,78,Male,Breast cancer surgery,Left arm,27.4,48,1,4.1,2,Yes,Yes,Low,No,2.2
+P040,34,Female,Breast cancer surgery,Left arm,29.3,14,1,3.1,1,Yes,Yes,Medium,Yes,2.7
+P041,68,Male,Lymph node removal,Right arm,19.5,45,2,5.2,4,No,Yes,High,No,1.3
+P042,48,Female,Radiation therapy,Left leg,18.3,27,2,5.2,5,No,Yes,Medium,Yes,1.7
+P043,64,Male,Lymph node removal,Left leg,24.4,16,2,5.1,4,Yes,No,High,No,0.9
+P044,79,Male,Breast cancer surgery,Right arm,25.1,17,1,4.3,1,No,Yes,High,No,2.1
+P045,56,Female,Infection,Right leg,27.0,2,0,1.5,0,No,No,Medium,No,1.8
+P046,60,Male,Lymph node removal,Right leg,23.4,17,1,3.7,2,Yes,Yes,Low,No,3.1
+P047,73,Male,Primary (unknown),Right arm,23.9,24,1,2.9,3,No,Yes,Low,No,1.2
+P048,80,Male,Breast cancer surgery,Left arm,29.5,31,1,3.8,2,No,No,Low,No,0.1
+P049,65,Female,Breast cancer surgery,Left leg,19.7,16,0,2.3,0,Yes,No,Medium,No,2.4
+P050,52,Male,Radiation therapy,Left arm,30.2,48,0,2.3,1,No,Yes,Low,Yes,1.5
+P051,51,Male,Infection,Right leg,23.8,15,1,3.6,3,Yes,Yes,Medium,No,3.2
+P052,37,Male,Breast cancer surgery,Right arm,31.0,59,1,2.6,3,No,No,Medium,Yes,1.0
+P053,42,Male,Lymph node removal,Left arm,35.8,48,1,2.8,3,Yes,No,High,Yes,1.9
+P054,66,Male,Primary (unknown),Right arm,37.9,28,2,4.9,3,No,No,Medium,No,0.0
+P055,51,Male,Breast cancer surgery,Right leg,34.3,36,0,0.9,0,Yes,No,High,No,2.8
+P056,54,Male,Breast cancer surgery,Left leg,30.5,32,2,5.4,4,Yes,No,Medium,No,0.9
+P057,65,Female,Infection,Left leg,29.0,36,1,3.5,1,Yes,No,Low,No,2.6
+P058,43,Male,Lymph node removal,Right leg,37.6,16,1,2.7,4,Yes,Yes,Medium,No,2.7
+P059,75,Male,Obesity,Left leg,32.5,54,2,6.1,4,Yes,No,High,No,2.0
+P060,49,Male,Primary (unknown),Right arm,37.6,16,2,5.2,6,Yes,No,High,No,1.5
+P061,67,Female,Lymph node removal,Left arm,20.5,38,1,3.3,2,Yes,No,Low,No,2.2
+P062,34,Female,Lymph node removal,Left leg,24.8,45,1,2.7,3,No,No,High,No,1.3
+P063,27,Female,Breast cancer surgery,Left leg,37.9,48,0,2.7,2,Yes,No,Low,No,1.6
+P064,75,Female,Breast cancer surgery,Left leg,26.6,16,1,3.9,2,Yes,Yes,Low,No,3.2
+P065,56,Female,Breast cancer surgery,Left leg,27.2,43,0,2.6,2,Yes,Yes,Medium,No,2.9
+P066,52,Male,Lymph node removal,Left leg,22.0,25,3,6.4,8,No,No,High,No,0.4
+P067,42,Female,Radiation therapy,Left arm,36.2,48,1,3.9,3,Yes,No,Low,No,2.2
+P068,71,Female,Radiation therapy,Left arm,24.2,29,0,1.2,0,No,No,High,No,1.5
+P069,48,Male,Obesity,Left leg,36.3,31,3,7.2,8,Yes,No,Low,Yes,1.9
+P070,71,Male,Primary (unknown),Left leg,19.8,26,0,1.8,0,No,No,High,No,0.7
+P071,26,Male,Primary (unknown),Right arm,31.0,41,2,5.8,3,No,Yes,Low,Yes,2.2
+P072,32,Female,Breast cancer surgery,Right arm,25.8,24,2,6.2,6,No,Yes,Medium,No,1.6
+P073,42,Female,Infection,Right arm,26.9,16,3,6.7,8,No,Yes,Medium,No,1.8
+P074,77,Male,Breast cancer surgery,Right arm,30.8,39,3,6.3,7,Yes,Yes,Low,No,2.5
+P075,77,Female,Lymph node removal,Right arm,33.8,39,0,1.9,2,Yes,No,Low,Yes,1.7
+P076,47,Female,Radiation therapy,Left arm,21.5,4,0,1.2,1,Yes,No,Medium,No,1.7
+P077,57,Female,Primary (unknown),Left arm,32.5,59,3,7.1,6,Yes,Yes,Medium,No,1.8
+P078,70,Male,Breast cancer surgery,Left arm,24.4,10,0,1.5,0,No,No,High,No,1.2
+P079,31,Female,Obesity,Right arm,26.6,57,1,3.3,3,No,Yes,Medium,No,1.6
+P080,34,Male,Breast cancer surgery,Left arm,19.9,7,2,4.8,4,Yes,No,High,Yes,1.9
+P081,73,Male,Obesity,Left arm,37.4,39,1,3.0,2,Yes,No,Low,No,2.0
+P082,32,Male,Radiation therapy,Right leg,34.9,50,2,5.7,5,Yes,No,Low,Yes,1.4
+P083,46,Male,Breast cancer surgery,Right arm,29.3,26,0,2.6,0,Yes,Yes,Medium,No,3.1
+P084,71,Male,Obesity,Left arm,35.7,10,1,3.9,3,No,No,High,No,0.6
+P085,38,Female,Lymph node removal,Left arm,23.7,44,2,5.2,4,Yes,No,High,Yes,2.3
+P086,74,Female,Obesity,Left leg,24.6,1,1,3.1,3,Yes,No,Low,No,1.9
+P087,54,Female,Obesity,Right leg,29.5,46,2,4.9,5,No,Yes,High,No,1.2
+P088,52,Female,Breast cancer surgery,Right leg,28.5,26,3,7.2,7,Yes,Yes,High,No,1.9
+P089,74,Male,Lymph node removal,Right arm,22.7,10,1,2.7,3,Yes,Yes,High,No,3.3
+P090,53,Male,Obesity,Left leg,21.0,5,1,4.0,2,Yes,No,High,Yes,1.3
+P091,48,Male,Breast cancer surgery,Left arm,30.3,33,1,4.1,2,Yes,No,High,No,1.9
+P092,34,Female,Lymph node removal,Left leg,37.6,6,1,2.8,1,No,No,High,No,0.6
+P093,43,Male,Lymph node removal,Left leg,31.6,4,2,5.1,6,Yes,No,Medium,No,2.3
+P094,63,Female,Lymph node removal,Right arm,36.3,20,3,7.3,7,Yes,No,High,No,1.8
+P095,67,Female,Radiation therapy,Right leg,28.2,2,1,2.8,1,No,Yes,Low,No,1.4
+P096,75,Female,Radiation therapy,Left arm,31.2,57,2,4.7,5,Yes,Yes,High,No,2.1
+P097,53,Female,Lymph node removal,Right arm,37.4,40,1,3.9,2,Yes,No,Medium,No,2.2
+P098,61,Male,Lymph node removal,Left leg,33.6,33,1,4.6,4,Yes,No,Low,No,2.0
+P099,31,Female,Breast cancer surgery,Right arm,23.5,58,1,3.6,2,Yes,No,Medium,No,1.8
+P100,48,Female,Lymph node removal,Left arm,25.5,2,1,3.2,4,No,Yes,Low,Yes,1.7
+P101,78,Female,Obesity,Right leg,27.0,1,3,6.1,6,Yes,No,Low,No,0.8
+P102,40,Male,Radiation therapy,Right leg,19.3,54,3,6.8,7,Yes,Yes,Medium,No,2.0
+P103,51,Female,Infection,Left arm,28.5,24,0,1.8,0,Yes,No,Medium,Yes,2.1
+P104,72,Female,Lymph node removal,Left arm,24.9,47,2,4.8,4,No,Yes,Low,No,1.7
+P105,78,Male,Primary (unknown),Right leg,30.6,52,0,2.5,0,Yes,No,Low,Yes,1.6
+P106,44,Male,Primary (unknown),Right leg,23.1,49,2,5.4,4,Yes,No,Medium,Yes,2.2
+P107,72,Male,Obesity,Right leg,24.8,12,1,4.0,2,No,Yes,High,No,2.5
+P108,36,Male,Lymph node removal,Left arm,24.6,19,1,3.6,4,No,No,Medium,Yes,0.5
+P109,52,Male,Radiation therapy,Left arm,19.5,41,1,3.8,3,Yes,Yes,Low,No,2.9
+P110,33,Female,Breast cancer surgery,Left leg,25.2,37,0,1.2,1,No,No,Medium,No,1.1
+P111,50,Male,Radiation therapy,Right arm,37.2,2,2,5.2,4,Yes,No,Medium,No,1.8
+P112,69,Male,Breast cancer surgery,Right arm,35.1,29,1,4.4,3,No,No,High,Yes,1.3
+P113,79,Female,Infection,Right arm,33.9,33,1,4.6,3,Yes,No,Low,No,1.9
+P114,60,Female,Radiation therapy,Left arm,19.3,26,3,7.5,7,No,Yes,Low,No,1.1
+P115,68,Male,Breast cancer surgery,Right arm,33.4,9,1,3.7,2,Yes,Yes,Medium,Yes,3.3
+P116,47,Male,Obesity,Left leg,21.9,36,1,3.9,1,Yes,Yes,High,No,3.2
+P117,71,Male,Obesity,Left arm,34.5,2,0,2.7,1,No,Yes,High,No,2.0
+P118,65,Male,Radiation therapy,Left leg,27.7,52,2,5.2,4,Yes,Yes,Medium,No,2.4
+P119,34,Male,Obesity,Left leg,32.7,56,1,3.7,2,Yes,No,Low,No,1.6
+P120,31,Female,Breast cancer surgery,Right leg,35.3,27,1,3.8,2,No,No,Low,No,0.8
+P121,56,Male,Lymph node removal,Left arm,36.9,33,1,3.2,4,Yes,Yes,Medium,No,3.2
+P122,55,Male,Radiation therapy,Left arm,26.6,57,1,3.3,2,Yes,No,Low,No,2.0
+P123,29,Male,Radiation therapy,Left leg,34.5,40,2,5.3,4,No,No,Medium,No,0.0
+P124,63,Male,Radiation therapy,Left arm,18.8,46,1,3.5,2,Yes,No,High,No,2.1
+P125,78,Male,Radiation therapy,Right leg,32.2,20,1,2.7,4,Yes,No,High,No,2.5
+P126,65,Female,Radiation therapy,Left leg,37.3,51,3,7.0,7,Yes,No,Low,No,1.8
+P127,49,Female,Obesity,Right arm,18.6,45,0,0.8,1,Yes,No,High,Yes,2.4
+P128,55,Female,Infection,Right arm,29.2,43,1,3.8,3,No,No,High,No,1.1
+P129,66,Male,Radiation therapy,Right arm,37.1,18,2,5.4,5,No,No,High,Yes,0.2
+P130,47,Male,Breast cancer surgery,Right leg,35.9,26,2,6.3,3,No,Yes,Medium,No,2.1
+P131,66,Male,Infection,Right arm,22.0,35,1,3.4,4,Yes,Yes,Low,Yes,2.5
+P132,39,Female,Breast cancer surgery,Left leg,32.3,7,2,5.3,6,Yes,No,High,No,1.6
+P133,37,Male,Lymph node removal,Left arm,36.2,6,2,5.2,4,Yes,Yes,Medium,No,3.3
+P134,78,Male,Obesity,Right arm,36.7,56,3,7.2,7,Yes,No,Medium,No,1.4
+P135,33,Male,Breast cancer surgery,Left arm,24.6,47,1,2.9,2,No,No,High,No,0.9
+P136,65,Male,Obesity,Left leg,19.7,43,0,2.4,0,Yes,Yes,Medium,No,2.9
+P137,46,Male,Radiation therapy,Left arm,23.2,24,2,4.3,6,No,Yes,Medium,No,2.0
+P138,74,Male,Infection,Left leg,25.4,15,1,2.7,2,No,No,High,No,0.8
+P139,67,Female,Obesity,Left arm,28.5,34,2,4.8,3,Yes,Yes,High,No,3.2
+P140,53,Female,Infection,Right leg,19.8,33,1,2.5,2,No,No,High,Yes,1.2
+P141,71,Female,Lymph node removal,Left arm,32.9,38,0,1.8,0,Yes,Yes,Medium,Yes,3.7
+P142,74,Male,Lymph node removal,Right leg,27.0,59,3,7.1,7,Yes,No,Low,Yes,1.4
+P143,71,Female,Obesity,Left arm,37.6,30,2,5.4,4,Yes,Yes,Medium,No,3.3
+P144,71,Female,Breast cancer surgery,Right leg,30.3,60,3,6.1,7,Yes,Yes,Medium,No,1.7
+P145,72,Female,Lymph node removal,Right arm,28.8,49,3,6.5,7,No,Yes,High,No,1.6
+P146,77,Male,Breast cancer surgery,Right arm,37.7,34,1,2.8,4,Yes,No,High,No,2.6
+P147,67,Male,Obesity,Left leg,31.9,27,0,1.8,1,No,Yes,Low,No,2.5
+P148,28,Male,Primary (unknown),Right arm,25.8,17,1,4.2,2,No,Yes,High,No,1.4
+P149,68,Female,Obesity,Right arm,34.1,38,2,5.4,4,No,No,Low,Yes,0.8
+P150,72,Male,Primary (unknown),Right arm,25.9,16,2,5.6,6,No,No,Medium,No,0.4
+P151,76,Male,Obesity,Left leg,36.3,24,1,3.2,3,Yes,Yes,Medium,No,3.3
+P152,43,Female,Breast cancer surgery,Right arm,25.6,54,1,4.1,3,No,No,Medium,No,0.7
+P153,35,Male,Breast cancer surgery,Right leg,21.7,57,1,3.3,1,Yes,Yes,High,Yes,2.4
+P154,65,Female,Breast cancer surgery,Right arm,18.2,33,1,3.0,3,No,No,Low,Yes,0.0
+P155,58,Male,Radiation therapy,Left leg,18.3,53,2,5.7,4,Yes,Yes,Low,No,2.8
+P156,41,Male,Breast cancer surgery,Right leg,19.6,26,1,3.4,3,No,Yes,High,No,1.0
+P157,50,Male,Lymph node removal,Right leg,19.1,1,2,5.1,4,No,Yes,High,No,2.1
+P158,69,Male,Breast cancer surgery,Left arm,31.7,18,3,6.8,7,No,Yes,Low,No,1.5
+P159,50,Female,Breast cancer surgery,Right arm,29.3,55,1,4.0,2,Yes,Yes,High,No,2.3
+P160,39,Female,Lymph node removal,Right leg,37.4,21,0,1.9,0,No,Yes,Medium,No,1.6
+P161,62,Male,Breast cancer surgery,Left leg,34.0,46,0,1.3,0,Yes,No,Medium,No,2.9
+P162,53,Male,Obesity,Left arm,20.7,12,1,3.6,1,Yes,Yes,Low,No,3.1
+P163,45,Male,Breast cancer surgery,Right leg,25.8,6,2,5.9,3,Yes,Yes,High,No,2.4
+P164,56,Female,Breast cancer surgery,Right leg,23.5,20,1,2.7,2,Yes,No,High,No,1.4
+P165,25,Male,Lymph node removal,Right leg,34.1,22,1,3.8,3,Yes,No,Medium,No,1.9
+P166,36,Male,Primary (unknown),Left leg,32.7,41,1,3.4,4,No,No,Medium,No,0.3
+P167,59,Female,Infection,Left arm,37.1,30,3,7.0,7,Yes,No,High,No,1.0
+P168,67,Female,Infection,Right leg,19.5,39,1,3.4,3,No,Yes,Medium,No,1.9
+P169,30,Female,Obesity,Left leg,21.3,40,0,2.7,0,No,No,Medium,Yes,0.6
+P170,72,Female,Lymph node removal,Right leg,27.3,44,2,5.2,6,Yes,No,Low,No,1.0
+P171,78,Female,Lymph node removal,Left leg,27.1,14,1,2.9,3,No,No,Low,No,0.2
+P172,79,Male,Radiation therapy,Right arm,36.6,48,1,2.7,3,No,No,Low,No,0.3
+P173,67,Male,Lymph node removal,Right arm,27.0,28,1,3.6,2,Yes,Yes,High,Yes,2.9
+P174,41,Male,Radiation therapy,Left leg,29.9,40,1,2.8,2,No,Yes,High,No,1.9
+P175,30,Female,Lymph node removal,Right arm,24.1,12,1,2.9,3,Yes,No,Medium,Yes,2.2
+P176,66,Female,Radiation therapy,Right leg,23.8,12,1,3.0,3,No,Yes,Medium,Yes,2.4
+P177,57,Male,Lymph node removal,Right leg,26.3,54,1,3.1,3,Yes,No,Low,No,1.5
+P178,54,Male,Radiation therapy,Left arm,29.5,18,2,5.7,4,Yes,No,High,Yes,2.0
+P179,66,Female,Breast cancer surgery,Left arm,27.0,23,3,6.9,7,Yes,Yes,Low,No,2.1
+P180,70,Male,Breast cancer surgery,Right arm,33.7,53,1,2.7,2,No,Yes,Medium,No,1.9
+P181,79,Female,Breast cancer surgery,Right leg,36.4,18,3,7.0,6,Yes,Yes,High,No,2.9
+P182,50,Male,Breast cancer surgery,Left leg,30.6,25,1,4.1,3,Yes,No,High,No,2.5
+P183,54,Male,Lymph node removal,Left arm,35.4,55,2,5.7,6,No,Yes,High,No,1.9
+P184,56,Male,Lymph node removal,Left leg,24.8,37,0,2.6,2,Yes,Yes,Low,No,2.5
+P185,79,Female,Lymph node removal,Left arm,37.8,28,1,3.5,2,No,Yes,Medium,Yes,1.1
+P186,67,Female,Breast cancer surgery,Left leg,32.5,49,1,4.0,3,Yes,Yes,Medium,Yes,3.0
+P187,53,Female,Breast cancer surgery,Left leg,34.3,56,1,2.6,1,No,Yes,High,No,1.6
+P188,44,Female,Lymph node removal,Right arm,30.8,44,0,1.3,1,Yes,No,Medium,No,1.7
+P189,51,Male,Obesity,Left arm,35.9,9,2,5.4,5,No,No,Low,Yes,0.1
+P190,63,Male,Obesity,Left arm,35.0,43,3,6.8,7,Yes,No,Medium,No,1.8
+P191,40,Male,Lymph node removal,Right arm,28.0,39,0,1.8,2,No,No,Low,No,0.9
+P192,59,Female,Obesity,Left arm,18.3,5,0,1.7,1,No,No,High,No,0.9
+P193,50,Female,Radiation therapy,Right arm,23.5,20,0,2.9,1,Yes,No,Medium,No,2.5
+P194,66,Female,Lymph node removal,Right leg,32.6,55,1,3.6,2,Yes,No,High,No,2.3
+P195,72,Female,Breast cancer surgery,Right arm,32.0,11,1,3.3,3,No,Yes,Medium,Yes,1.4
+P196,32,Female,Lymph node removal,Right leg,23.4,5,1,4.4,2,No,No,High,No,0.9
+P197,48,Female,Breast cancer surgery,Left arm,35.9,44,2,5.0,4,Yes,Yes,Low,Yes,3.3
+P198,36,Female,Radiation therapy,Right leg,22.5,16,1,3.7,4,Yes,No,Low,No,1.5
+P199,76,Female,Primary (unknown),Left arm,35.5,56,1,3.9,3,No,Yes,Medium,Yes,1.5
+P200,64,Female,Lymph node removal,Right leg,38.0,50,1,4.4,1,Yes,Yes,Low,No,3.0
